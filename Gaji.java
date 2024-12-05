@@ -55,9 +55,6 @@ public class Gaji{
 
         /* Pekerjaan anda berakhir sini */
 
-        System.out.println(Gaji.class.getDeclaredMethods().length);
-        System.out.println(Gaji.class.getDeclaredFields().length);
-        
-    }
+    
     
 }
